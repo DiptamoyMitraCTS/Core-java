@@ -1,0 +1,26 @@
+         
+Programmer------> java code---->javac compiler ---->byte code---- >jvm 
+
+execution start file need main method must present.
+// public static void main(String []args){
+                 
+}
+
+                       BYTECODE                                                       JDK----->JRE----->JVM 
+                         |                                                            (JRE)=(JVM+LIBRARY)
+                         |                                                            JAVA IS WORA (Write Once Run Anywhere)
+                         V
+                    -------------------
+                    |                 |
+                    |       JVM       |
+                    |.................|
+                         
+                ...........................
+                |                         |   --->     windows
+                |           OS            |
+                |.........................|
+
+              --------------------------------|
+              |        H.W                    |
+              |                               |
+              |-------------------------------|  
