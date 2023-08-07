@@ -1,0 +1,5 @@
+Object oriented programming
+
+
+class------> blueprint of object 
+object-----> properties and behaviour

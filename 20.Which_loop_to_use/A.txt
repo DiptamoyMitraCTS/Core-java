@@ -1,0 +1,3 @@
+Generally for loop is use when we know iteration
+
+while loop is use in api calling and in databases
