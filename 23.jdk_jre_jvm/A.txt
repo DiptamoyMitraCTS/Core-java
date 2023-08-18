@@ -1,0 +1,11 @@
+JDK------------>compile java code produce bytecode
+JVM------------>run and execute the bytecode 
+
+
+
+
+jdk > jre >jvm 
+
+JRE provides extra files to run the bytecode on jvm 
+
+
