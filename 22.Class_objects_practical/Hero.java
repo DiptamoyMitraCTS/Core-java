@@ -1,4 +1,4 @@
-class Calc{
+class Calc{  
   int a;
   public int add(int x, int y){
     System.out.println("In ADD");
@@ -14,10 +14,10 @@ class Hero{
     // int res=num1+num2;
     // System.out.println(res);
     // add();  // error: cannot find symbol
-    Calc ob; //just create referenc;\
+    Calc ob; //just create referenc;
     ob= new Calc(); //create object
     System.out.println( ob.add(num1,num2));  //9
- 
+    
 
   }
 }
