@@ -33,5 +33,7 @@ public class Hello {
  * Char------->char-------->2 Bytes char ch;
  * Boolean-----> true and false boolean b=true;
  * 
+ * 2)Non-primitive ---> String, Array, Class
+ *  
  * 
  */
