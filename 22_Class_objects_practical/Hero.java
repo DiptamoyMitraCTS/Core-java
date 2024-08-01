@@ -14,8 +14,8 @@ class Hero{
     // int res=num1+num2;
     // System.out.println(res);
     // add();  // error: cannot find symbol
-    Calc ob; //just create referenc;
-    ob= new Calc(); //create object
+    Calc ob; //just create referenc; //reference variable
+    ob= new Calc(); //create object and take space in memory
     System.out.println( ob.add(num1,num2));  //9
     
 

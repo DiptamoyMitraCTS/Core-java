@@ -31,7 +31,7 @@ public class Hello {
  * Float---->float------>4 Bytes float num=8.9f;
  * ----->double --->8 Bytes
  * Char------->char-------->2 Bytes char ch;
- * Boolean-----> true and false boolean b=true;
+ * Boolean----->1 bit-----> true and false boolean b=true;
  * 
  * 2)Non-primitive ---> String, Array, Class
  *  

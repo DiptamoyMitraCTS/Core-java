@@ -16,7 +16,7 @@ public class Hero {
       }
       System.out.println();
     }
-
+    System.out.println();
     //print method 2
     for(int n[]:nums){
       for(int m:n){

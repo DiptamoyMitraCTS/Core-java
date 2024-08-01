@@ -17,7 +17,7 @@ public class Hello {
       //Ternary method
 
       res= n%2==0?10:20;
-      System.out.println(res);
+      System.out.println(res); //20
 
       
   }

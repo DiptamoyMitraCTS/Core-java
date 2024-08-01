@@ -1,4 +1,4 @@
-
+//Literals: Any constant value which can be assigned to the variable is called literals/constant
 public class Hello {
   public static void main(String[] args) {
     // literals
