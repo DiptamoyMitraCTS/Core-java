@@ -34,10 +34,10 @@ class B extends A {
 
 public class Hero {
     public static void main(String[] args) {
-        B obj = new B(); // create object of B
-        // B obj1=new B(2);
+        // B obj = new B(); // create object of B
+        B obj1=new B(2);
 
-        
+
 
     }
 }

@@ -1,5 +1,5 @@
 //Encapsulation in java
-
+//Encapsulation helps to keep a class's internal state protected and allows for controlled access and modification through public methods.
 class Human{
     private int age;
     private String name;

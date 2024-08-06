@@ -1,0 +1,8 @@
+Inheritance helps in achieving polymorphism, where a single function can behave differently based on the object that is calling it, and it fosters a cleaner and more manageable codebase by promoting reusability and reducing redundancy.
+
+Inheritance in Java is a fundamental object-oriented programming concept that allows one class to inherit the properties and behaviors (fields and methods) of another class. This promotes code reusability and establishes a natural hierarchy between classes.
+
+
+
+
+is , has
