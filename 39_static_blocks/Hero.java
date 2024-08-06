@@ -1,11 +1,5 @@
 
-
-
-
-
-
 //static variable
-
 class Mobile{
     String brand;
     int price;
@@ -34,7 +28,7 @@ class Mobile{
        //Cannot make a static reference to the non-static brand, price
     }
   
-    //but we can access
+    //but we can access NON STATIC VARIABLES 
     public static void show2(Mobile obj){
       System.out.println(obj.brand); //Apple
     }
@@ -67,7 +61,7 @@ class Mobile{
   
   
         //call static method
-        Mobile.show1();
+        Mobile.show1(); //Phone
   
         //call with specific  object
         Mobile.show2(obj1); //Apple

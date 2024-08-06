@@ -32,7 +32,7 @@ public class Hero {
     s3.name = "Rahul";
     s3.marks = 90;
 
-    Student students[] = new Student[3];
+    Student students[] = new Student[3]; //array of objects
     students[0] = s1;
     students[1] = s2;
     students[2] = s3;

@@ -11,7 +11,7 @@ public class Hero {
     String s1="Navin";
     String s2="Navin";
     System.out.println(s1==s2); //true
-    //mutable string--->can change
-    //Immutable string=remains unchange
+    //mutable string--->can change  (provides StringBuffer & StringBuilder) 
+    //Immutable string=remains unchange(provides normal String)
   }
 }

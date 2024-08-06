@@ -55,7 +55,7 @@ public class Hero {
 
 
       //call static method
-      Mobile.show1();
+      Mobile.show1(); //Phone
 
       //call with specific  object
       Mobile.show2(obj1); //Apple

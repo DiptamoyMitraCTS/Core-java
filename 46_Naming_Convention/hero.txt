@@ -1,0 +1,13 @@
+//Naming convention
+
+
+class and interface ---> capital letter in starting (Calc, Runnable)
+
+variables and methods----> small letters (marks, show())
+
+constants---> capital(PIE)
+
+
+ most of the time follow cammel case 
+
+ //age, DATA, Human() 
