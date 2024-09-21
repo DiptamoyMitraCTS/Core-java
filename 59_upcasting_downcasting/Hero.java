@@ -2,12 +2,12 @@
 
 class A{
 
-    public void show1(){
+    public void show1(){ //super class
       System.out.println("in A show1");  
     }
     
 }
-class B extends A{
+class B extends A{ //sub class
     public void show2(){
         System.out.println("in B show2");
     }
@@ -34,7 +34,7 @@ public class Hero {
 
         B obj1=(B)obj; //downcasting //A class reference variable obj can be referred by B class object //obj is parent reference we downcast it to child reference
         obj1.show1(); //in A show1 
-        obj1.show2(); //in B show2
+        obj1.show2(); //in B show2 //now it is accessible because obj1 is of B class reference variable
         
      }
 }
