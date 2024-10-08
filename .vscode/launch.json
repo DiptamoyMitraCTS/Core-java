@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Hero1",
+      "request": "launch",
+      "mainClass": "Hero1",
+      "projectName": "java_9025abd4"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "java_9025abd4"
+    },
+    {
+      "type": "java",
       "name": "Demo",
       "request": "launch",
       "mainClass": "Demo",
