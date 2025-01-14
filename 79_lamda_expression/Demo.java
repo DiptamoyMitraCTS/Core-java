@@ -1,5 +1,5 @@
 //functional interface lamda expression
-
+// this is very important
 @FunctionalInterface
 interface A {
     void show(int i); // which has only one method
